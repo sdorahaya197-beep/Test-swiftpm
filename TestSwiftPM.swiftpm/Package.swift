@@ -9,7 +9,7 @@ let package = Package(
     targets: [
         .executableTarget(
             name: "TestSwiftPM",
-            path: "Sources"
+            path: "."
         )
     ]
 )
